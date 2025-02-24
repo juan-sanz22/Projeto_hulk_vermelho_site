@@ -129,6 +129,6 @@ body{
     margin: 100 0 0 0;
     text-align: center;
     padding: 20 0 20 0;
-    background-color: black;
+    background-color: rgb(255, 0, 0);
     color: rgb(255, 255, 255);
 }
