@@ -1,0 +1,134 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(236, 236, 236);
+    margin: 0px;
+    padding: 0px;
+}
+
+#header{
+    width: 1072px;
+    padding: 20px 0 20px 830px;
+    color: brown;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    display: flex;
+}
+
+#gif_do_header{
+    border: solid;
+    border-color: brown;
+    border-radius: 5px;
+    width: 100px;
+    margin-left: 10px;
+}
+
+#Sobre_Hulk_vermelho{
+    display: flex;
+    width: 1000px;
+    margin: 0 0 0 439;
+    padding: 100 0 100 0;
+}
+
+#Texto_sobre{
+    background-color: rgb(255, 255, 255);
+    padding: 20 20 20 20;
+    border-radius: 5px;
+    box-shadow: 10px 10px 15px 0px rgba(0, 0, 0, 0.3);
+}
+
+#Imagem_sobre_hulk{
+    width: 350px;
+    margin: 0 0 0 40;
+    height: 460px;  
+    border: solid;
+    border-color: brown;
+    border-radius: 5px;
+    box-shadow: 10px 10px 15px 0px rgba(0, 0, 0, 0.3);
+}
+
+#Título_aliados{
+    text-align: center;
+     color: rgb(255, 0, 0);
+}
+
+.Aliados{
+    display: flex;
+    width: 1000px;
+    margin: 60 0 0 380;
+    padding: 50 50 50 50;
+    background-color: black;
+    border: solid;
+    border-color: rgb(255, 0, 0);
+    border-radius: 5px;
+}
+
+.Texto_aliados{
+    background-color: brown;
+    padding: 60 30 0 30;
+    color: rgb(255, 255, 255);
+    border: solid;
+    border-color: rgb(255, 0, 0);
+    border-radius: 5px;
+}
+
+.Aliados_imagem{
+    width: 350px;
+    margin: 0 0 0 40;
+    height: 460px;  
+    border: solid;
+    border-color: rgb(255, 0, 0);
+    border-radius: 5px;
+    box-shadow: 10px 10px 15px 0px rgba(0, 0, 0, 0.3);
+}
+
+#Banner_hulk-vermelho{
+    width: 1900px;
+    margin: 100 0 0 0;
+    height: 700px;
+}
+
+#Título_viloes{
+    margin: 100 0 0 0;
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+
+.Viloes{
+    display: flex;
+    width: 1000px;
+    margin: 60 0 0 420;
+    padding: 50 50 50 50;
+    background-color: rgb(255, 255, 255);
+    border: solid;
+    border-color: rgb(0, 0, 0);
+    border-radius: 5px;
+}
+
+.Texto_viloes{
+    background-color: brown;
+    padding: 60 30 0 30;
+    color: rgb(255, 255, 255);
+    border: solid;
+    border-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    margin: 0 0 0 50;
+    box-shadow: 10px 10px 15px 0px rgba(0, 0, 0, 0.3);
+}
+
+.Viloes_imagem{
+    width: 350px;
+    margin: 0 0 0 0;
+    height: 460px;  
+    border: solid;
+    border-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    box-shadow: 10px 10px 15px 0px rgba(0, 0, 0, 0.3);
+}
+
+#footer{
+    margin: 100 0 0 0;
+    text-align: center;
+    padding: 20 0 20 0;
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
